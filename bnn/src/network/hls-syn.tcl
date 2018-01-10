@@ -54,7 +54,7 @@ set config_tinycnn "$::env(XILINX_BNN_ROOT)/xilinx-tiny-cnn"
 puts "BNN HLS library: $config_bnnlibdir"
 
 set config_toplevelfxn "BlackBoxJam"
-set config_proj_part "xc7z020clg400-1"
+set config_proj_part "xc7z020clg484-1"
 set config_clkperiod 5
 
 # set up project

@@ -52,7 +52,7 @@ set config_jam_repo [lindex $argv 0]
 # project name, target dir and FPGA part to use
 set config_proj_name [lindex $argv 1]
 set config_proj_dir [lindex $argv 2]
-set config_proj_part "xc7z020clg400-1"
+set config_proj_part "xc7z020clg484-1"
 
 # other project config
 
